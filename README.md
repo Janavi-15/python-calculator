@@ -1,2 +1,9 @@
 # python-calculator
-A simple calculator program made by using python
+My first python calculator project
+
+## Concept used
+-Variables
+-User input
+-If-else
+-Arithmetic operator
+-Type casting
